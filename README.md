@@ -29,6 +29,18 @@ Implement search functionality to enable users to search for specific recipes
 Result:
 The execution of the above actions demonstrates the effective utilization of GitHub Copilot and Visual Studio Code to develop a simple recipe app using React. By following the outlined tasks, the development environment was successfully set up, a basic user interface for displaying recipes was created, sample data was generated, and key features were implemented. According to the provided instructions, this document will be submitted for evaluation through the Learning Management System (LMS).
 
+
+Implemented in this repository:
+- A simple React app scaffolded for Vite
+- Sample recipe data with multiple recipes
+- A recipe list view with card layout
+- A recipe detail component with ingredients and steps
+- Search functionality for recipe titles, descriptions, and tags
+
+Run locally:
+1. `npm install`
+2. `npm run dev`
+
  
 
 Rubric
